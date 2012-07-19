@@ -52,6 +52,7 @@ Para verificar se sua nova extensão está funcionando acesse o arquivo 'teste.p
 Referências:
 ------------
 
+- http://max.berger.name/teaching/s06/ch11.jsp
 - http://www.ibm.com/developerworks/opensource/library/os-php-swig/
 - http://www.swig.org/Doc2.0/SWIGDocumentation.html#Php
 - http://devzone.zend.com/1435/wrapping-c-classes-in-a-php-extension/
